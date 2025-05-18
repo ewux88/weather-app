@@ -2,6 +2,10 @@
 
 A simple and elegant weather application built with React, TypeScript, and Vite. The app uses the OpenWeatherMap API to fetch real-time weather data.
 
+## Live Demo
+
+Check out the live application: [Weather App](https://ewux88.github.io/weather-app/)
+
 ## Features
 
 - Search for weather by city name
